@@ -1,6 +1,5 @@
 <div align="center">
 Hi there 👋
-Take a breath 
 
 ---
 
